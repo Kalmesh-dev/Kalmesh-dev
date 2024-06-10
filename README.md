@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @Kalmesh
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Kalmesh
 - 🌱 I’m currently learning Data Science,Python,Tableau,Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kalmeshlatur@gmail.com   7026305083
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Kalmesh-dev/Kalmesh-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me kalmeshlatur@gmail.com
